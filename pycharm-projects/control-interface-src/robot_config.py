@@ -22,7 +22,7 @@ TORQUE_DISABLE = 0
 POS_THRESHOLD = 20  # Threshold of the difference between our current position and desired position
 GOAL_POSITION = 3200
 
-POS_INCREMENT = 250
+POS_INCREMENT = 200
 
 MOTOR_ID_Y = 4
 MOTOR_ID_Z = 1
